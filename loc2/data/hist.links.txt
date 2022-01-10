@@ -1,0 +1,12 @@
+Anhui	0	22	6.32008316	fill_color=248,118,109
+Fujian	0	22	6.829773415	fill_color=222,140,0
+Guangdong	0	22	5.810402905	fill_color=183,159,0
+Hunan	0	22	7.33945367	fill_color=124,174,0
+Jiangsu	0	22	6.014273007	fill_color=0,186,56
+Jiangxi	0	22	9.174314587	fill_color=0,192,139
+NorthChina1	0	22	10.90720545	fill_color=0,191,196
+NorthChina2	0	22	7.543323772	fill_color=0,180,240
+Shanghai	0	22	8.766564383	fill_color=97,156,255
+WestChina1	0	22	6.829773415	fill_color=199,124,255
+WestChina2	0	22	9.48012474	fill_color=245,100,227
+Zhejiang	0	22	14.98470749	fill_color=255,100,176

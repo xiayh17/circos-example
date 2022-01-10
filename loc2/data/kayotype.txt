@@ -1,0 +1,12 @@
+chr	-	Anhui	Anhui	0	22	black
+chr	-	Fujian	Fujian	0	22	black
+chr	-	Guangdong	Guangdong	0	22	black
+chr	-	Hunan	Hunan	0	22	black
+chr	-	Jiangsu	Jiangsu	0	22	black
+chr	-	Jiangxi	Jiangxi	0	22	black
+chr	-	NorthChina1	NorthChina1	0	22	black
+chr	-	NorthChina2	NorthChina2	0	22	black
+chr	-	Shanghai	Shanghai	0	22	black
+chr	-	WestChina1	WestChina1	0	22	black
+chr	-	WestChina2	WestChina2	0	22	black
+chr	-	Zhejiang	Zhejiang	0	22	black
